@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import WindowTracker from "./WindowTracker";
 
 export default function App() {
   const [show, setShow] = useState(true);
